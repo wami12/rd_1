@@ -5,5 +5,5 @@ This is a dataset repository for internship research work described in:
 Dataset author:
 Michał Bednarczyk, PhD
 <a class="no-text-decoration mr-0" href="https://orcid.org/0000-0001-6127-7538" aria-label="Arroyo, Javier: ORCID profile" title="Arroyo, Javier: ORCID profile">
-      <img class="inline-id-icon ml-5" src="/static/images/orcid.svg" alt="">
+      <img class="inline-id-icon ml-5" src="https://zenodo.org/static/images/orcid.svg" alt="">
     </a>
