@@ -5,5 +5,5 @@ This is a dataset repository for internship research work described in:
 Dataset author:
 Michał Bednarczyk, PhD<br>
 <a class="no-text-decoration mr-0" href="https://orcid.org/0000-0002-0450-5327" aria-label="Bednarczyk Michał: ORCID profile" title="Bednarczyk Michał: ORCID profile">
-      <img style="{width:16px;height:16px;}" class="inline-id-icon ml-5" src="https://zenodo.org/static/images/orcid.svg" alt="">
+      <img style="{width:16px;height:16px;}" class="inline-id-icon ml-5" src="https://zenodo.org/static/images/orcid.svg" alt=""> https://orcid.org/0000-0002-0450-5327
     </a>
